@@ -29,6 +29,7 @@
 ## 📊 GitHub Stats & Trophies
 <p align="center">
   <a href="https://github.com/Riteshrdeshmukh">
+    <a href="https://leetcode.com/u/riteshrdeshmukh46/">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Riteshrdeshmukh&cache_seconds=7200&layout=compact&theme=radical&border_radius=10" alt="Riteshrdeshmukh's GitHub Stats" />
   </a>
   <img src="https://streak-stats.demolab.com/?user=Riteshrdeshmukh&theme=radical&hide_border=true&cache_seconds=86400" alt="Riteshrdeshmukh's GitHub Streak" width="49%" />
